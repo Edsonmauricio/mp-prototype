@@ -161,7 +161,7 @@ font-family: 'Averia Serif Libre', cursive;
   #mainNav.navbar-shrink {
     padding-top: 0;
     padding-bottom: 0;
-    background-color: #212529;
+    background-color: #011417;
   }
   #mainNav.navbar-shrink .navbar-brand {
     font-size: 1.25em;
@@ -193,7 +193,7 @@ header.masthead .intro-text .intro-lead-in {
 }
 
 header.masthead .intro-text .intro-heading {
-  font-size: 50px;
+  font-size: 55px;
   font-weight: 700;
   line-height: 50px;
   margin-bottom: 25px;
@@ -206,7 +206,7 @@ font-family: 'Averia Serif Libre', cursive;
     padding-bottom: 200px;
   }
   header.masthead .intro-text .intro-lead-in {
-    font-size: 40px;
+    font-size: 55px;
     font-style: italic;
     line-height: 40px;
     margin-bottom: 25px;
