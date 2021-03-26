@@ -115,19 +115,19 @@ img::-moz-selection {
   right: 0;
   padding: 13px;
   text-transform: uppercase;
-  color: white;
+  color: #a8d0fb;
   border: 0;
-  background-color: #fed136;
+  background-color: #343a40;
 font-family: 'Averia Serif Libre', cursive;
 }
 
 #mainNav .navbar-brand {
-  color: #fed136;
+  color: #a8d0fb;
 font-family: 'Averia Serif Libre', cursive;
 }
 
 #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-  color: #fec503;
+  color: #7fb18b;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
@@ -140,7 +140,7 @@ font-family: 'Averia Serif Libre', cursive;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: #fed136;
+  color: #a8d0fb;
 }
 
 @media (min-width: 992px) {
